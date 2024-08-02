@@ -1,0 +1,11 @@
+{
+    "services": {
+        "api.userApi": {
+            "class": "./Test/UserApiStub"
+        },
+        "service.userService": {
+            "class": "./UserService",
+            "arguments": ["@api.userApi"]       
+    }
+  }
+}  

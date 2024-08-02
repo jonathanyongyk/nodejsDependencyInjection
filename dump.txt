@@ -1,0 +1,21 @@
+// commonjs style
+// const UserApi = require('./UserApi');
+// const UserService = require('./UserService');
+
+// ESM style
+// import UserApi from './UserApi.js';
+// import UserService from './UserService.js';
+//import {ContainerBuilder, Reference, JsonFileLoader} from 'node-dependency-injection'
+
+// const userApi = new UserApi()
+// const userService = new UserService(userApi);
+
+// let container = new ContainerBuilder();
+// let loader = new JsonFileLoader(container, '.\services.json');
+// await loader.load();
+
+// container.register('api.userApi', UserApi);
+
+// container
+//   .register('service.userService', UserService)
+//   .addArgument(new Reference('api.userApi'));

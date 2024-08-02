@@ -1,0 +1,30 @@
+[
+    {
+        "id": 7,
+        "email": "user1@test.com",
+        "first_name": "User",
+        "last_name": "One",
+        "avatar": "https://user1.png"
+    },
+    {
+        "id": 8,
+        "email": "user2@test.com",
+        "first_name": "Lee",
+        "last_name": "Kim",
+        "avatar": "https://user2.png"
+    },
+    {
+        "id": 9,
+        "email": "user3@test.com",
+        "first_name": "Tan",
+        "last_name": "Han",
+        "avatar": "https://user3.png"
+    },
+    {
+        "id": 10,
+        "email": "user4@test.com",
+        "first_name": "Byron",
+        "last_name": "Wan",
+        "avatar": "https://user4.png"
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "services": {
+        "api.userApi": {
+            "class": "./UserApi"
+        },
+        "service.userService": {
+            "class": "./UserService",
+            "arguments": ["@api.userApi"]       
+    }
+  }
+}  
